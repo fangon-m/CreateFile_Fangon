@@ -1,7 +1,0 @@
-Student No.: 02000274255
-Full Name: Fangon, Juan Carlos Miguel, Hernandez
-Program: BSIT
-Gender: M
-Age: 22
-Birthday: 2002-12-25
-Contact No.: 09213070188
